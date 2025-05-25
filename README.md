@@ -17,7 +17,7 @@ cout << a << endl;
 - 例
 ## 4 表格
 1. 用竖杠来分格竖列，第二行的每一个数列内容都是减号-即可，如：
-2. 
+***
 |1|1|1|
 |-|-|-|
 |2|2|2|
@@ -26,4 +26,4 @@ cout << a << endl;
 1. 在一对**方括**号里括要显示的内容，紧跟着用一对**圆括号**，如：[煮包的github](https://github.com/heng-jack)
 2. 加粗是可以用在链接上的，如：**[煮包的github](https://github.com/heng-jack)**
 ## 6 图片
-1. 与链接类在链接的前面加!即可，如 ![rosie](https://github.com/heng-jack/markdown_text_learning/blob/main/img/rose.png)
+1. 与链接类在链接的前面加!即可，如：（图片可能需要加载一小会儿） ![rosie](https://github.com/heng-jack/markdown_text_learning/blob/main/img/rose.png)
