@@ -15,8 +15,12 @@ cout << a << endl;
 1. 有序号的列表就是数字后面加个点，即英文的句号
 2. 前面-减号加空格则为无序号的列表，如：
 - 例
-## 4 链接
+## 4 表格
+|1|1|
+|-|-|
+|2|2|
+## 5 链接
 1. 在一对**方括**号里括要显示的内容，紧跟着用一对**圆括号**，如：[煮包的github](https://github.com/heng-jack)
 2. 加粗是可以用在链接上的，如：**[煮包的github](https://github.com/heng-jack)**
-## 图片
+## 6 图片
 1. 与链接类在链接的前面加!即可，如 ![rosie](https://github.com/heng-jack/markdown_text_learning/blob/main/img/rose.png)
