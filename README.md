@@ -19,4 +19,4 @@ cout << a << endl;
 1. 在一对**方括**号里括要显示的内容，紧跟着用一对**圆括号**，如：[煮包的github](https://github.com/heng-jack)
 2. 加粗是可以用在链接上的，如：**[煮包的github](https://github.com/heng-jack)**
 ## 图片
-1. 与链接类在链接的前面加!即可，如 ![ikun](https://cn.bing.com/images/search?view=detailV2&ccid=I1%2bBzzoQ&id=4BB59FBAC54FF9A4C565D462E647B4E5E15EE1DB&thid=OIP.I1-BzzoQKsRZkEBWy7ifBgAAAA&mediaurl=https%3a%2f%2fc-ssl.dtstatic.com%2fuploads%2fitem%2f202004%2f21%2f20200421210902_rCFci.thumb.400_0.jpeg&exph=600&expw=400&q=%e8%94%a1%e5%be%90%e5%9d%a4%e5%9b%be%e7%89%87&simid=608047261465325384&FORM=IRPRST&ck=3D7CDB653FF28B5E4AD1C4432BAA87FA&selectedIndex=52&itb=0)
+1. 与链接类在链接的前面加!即可，如 ![rosie](https://github.com/heng-jack/markdown_text_learning/blob/main/img/rose.png)
